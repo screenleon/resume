@@ -38,7 +38,7 @@ Contributed to the development of HP's automated testing platform managing test 
 
 - **Participated in microservice architecture decomposition** from monolith, defining service boundaries and inter-service communication patterns
 - **Developed device auto-registration system** for automated detection and enrollment of test equipment
-- **Served as dedicated debugger for 3 consecutive sprints**, performing root cause analysis and fixing team-wide bugs, systematizing debugging methodologies
+- **Rotated as dedicated debugger across multiple sprints (3 sprints total)**, performing root cause analysis and fixing team-wide bugs, systematizing debugging methodologies
 - **Built CI/CD pipelines on Azure DevOps**, including integration test environments; provided Azure Pipeline configuration samples for other teams
 - **Established code review culture** within the team, defining quality standards and review processes
 - **Participated in Scrum ceremonies** with 2-week sprints (Sprint Planning, Daily Standups, Retrospectives)

@@ -100,8 +100,8 @@ Full-stack software engineer with 4+ years of professional experience spanning b
 - Designed and implemented automated device detection and enrollment workflow
 - Built device information collection and database registration pipeline
 
-*3. Dedicated Debugger Role (3 Consecutive Sprints)*
-- Assigned as the team's sole debugger for 3 sprints, responsible for triaging and fixing all reported bugs
+*3. Dedicated Debugger Role (3 Sprints, Rotated)*
+- Rotated as the team's dedicated debugger across multiple sprints (3 sprints total), responsible for triaging and fixing all reported bugs
 - Performed systematic root cause analysis for complex cross-service issues
 - Documented debugging methodologies and shared knowledge with the team
 
