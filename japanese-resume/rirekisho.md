@@ -22,7 +22,7 @@
 ## 職歴
 - 2019年12月：K-JUMP Health Co., Ltd. 入社（バックエンドエンジニア）
 - 2021年12月：K-JUMP Health Co., Ltd. 退社（一身上の都合）
-- 2022年01月：HP Inc. / vCosmos プロジェクト 入社（フルスタックエンジニア、SHL Technologies 経由委託）
+- 2022年01月：HP Inc. / vCosmos プロジェクト 入社（システムエンジニア、SHL Technologies 経由委託）
 - 2023年09月：HP Inc. / vCosmos プロジェクト 退社（留学のため）
 - 2025年06月：株式会社兆豊グループ 入社（ソフトウェアエンジニア）
 - 現在に至る

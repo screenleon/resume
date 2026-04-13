@@ -21,17 +21,16 @@ Full-stack software engineer with 4+ years of experience building web applicatio
 **Tyoho Group Co., Ltd. (株式会社兆豊グループ)**, Tokyo, Japan
 *June 2025 – Present*
 
-Sole developer responsible for planning, designing, developing, and deploying all internal systems and public-facing web services, collaborating with AI agents to build products from zero.
+Initially the sole developer, later joined by new team members in 2026. Responsible for planning, designing, developing, and deploying internal systems and public-facing web services, collaborating with AI agents to build products from zero.
 
 - **Built a multi-tenant business platform** with Java 17 / Spring Boot backend featuring OAuth2 + JWT authentication, PostgreSQL, Redis session management, S3 file management with role-based access control, and trademark search API integration (JPO proxy)
-- **Developed a job matching platform (JapanJob)** for Chinese-speaking job seekers in Japan using Go REST API, React Native mobile app, and React Admin management SPA
+- **Developing a job matching platform (JapanJob)** (in progress) for Chinese-speaking job seekers in Japan using Go REST API, React Native mobile app, and React Admin management SPA
 - **Created a multilingual corporate website** with Astro 5 + React 18, supporting 4 languages (JA/EN/ZH-TW/ZH-CN) with responsive design and video optimization
-- **Established CI/CD pipelines** using GitHub Actions for automated builds, FTP deployment with retry logic, and post-deploy validation
-- **Published custom PostgreSQL Docker images** (PostgreSQL 17 + pg_uuidv7) to GitHub Container Registry with automated weekly builds and security hardening
+- **Published custom PostgreSQL Docker images** (PostgreSQL 17 + pg_uuidv7) to GitHub Container Registry with automated weekly builds via GitHub Actions and security hardening
 
 **Technologies**: Java, Spring Boot, Go, TypeScript, React, React Native, React Admin, Astro, PostgreSQL, Redis, Docker, GitHub Actions, OAuth2/JWT, S3
 
-### Full-Stack Engineer
+### Systems Engineer
 **HP Inc. / vCosmos Project** (via SHL Technologies), Taipei, Taiwan
 *January 2022 – September 2023*
 
@@ -42,7 +41,7 @@ Contributed to the development of HP's automated testing platform managing test 
 - **Served as dedicated debugger for 3 consecutive sprints**, performing root cause analysis and fixing team-wide bugs, systematizing debugging methodologies
 - **Built CI/CD pipelines on Azure DevOps**, including integration test environments; provided Azure Pipeline configuration samples for other teams
 - **Established code review culture** within the team, defining quality standards and review processes
-- **Practiced Scrum methodology** with 2-week sprints, actively contributing to Sprint Planning, Daily Standups, and Retrospectives
+- **Participated in Scrum ceremonies** with 2-week sprints (Sprint Planning, Daily Standups, Retrospectives)
 
 **Technologies**: Node.js, React.js, AWS (EC2, S3, Lambda), RabbitMQ, Azure DevOps, Docker, Protocol Buffers, Microservices Architecture
 

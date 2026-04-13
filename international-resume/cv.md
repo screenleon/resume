@@ -38,7 +38,7 @@ Full-stack software engineer with 4+ years of professional experience spanning b
 **Tyoho Group Co., Ltd. (株式会社兆豊グループ)**, Tokyo, Japan
 *June 2025 – Present*
 
-**Position Summary**: Sole in-house developer for a diversified corporate group covering trading, real estate, human resources, and software development. Responsible for end-to-end product development across all company web services and internal systems, working with AI agents to build products from scratch.
+**Position Summary**: Initially the sole in-house developer for a diversified corporate group covering trading, real estate, human resources, and software development. New team members joined in 2026. Responsible for end-to-end product development across all company web services and internal systems, working with AI agents to build products from scratch.
 
 **Key Responsibilities**:
 - Full ownership of system architecture, design, implementation, testing, and deployment for all company software products
@@ -56,7 +56,7 @@ Full-stack software engineer with 4+ years of professional experience spanning b
 - Developed TypeScript + React frontend in monorepo structure with shared UI components, API clients, and authentication handling
 - Maintained 139 technical documentation files covering architecture, API specifications, and development guides
 
-*2. JapanJob — Job Matching Platform for Chinese Speakers in Japan*
+*2. JapanJob — Job Matching Platform for Chinese Speakers in Japan (in development)*
 - Designed and implemented Go REST API server for job matching business logic
 - Developed React Native mobile application for job seekers
 - Built React Admin SPA for administrative operations and content management
@@ -68,12 +68,7 @@ Full-stack software engineer with 4+ years of professional experience spanning b
 - Optimized video loading with smart preload and fade-in transitions
 - Designed responsive layout for desktop and mobile devices
 
-*4. Tvisa Website with CI/CD*
-- Developed React + Vite website with full GitHub Actions CI/CD pipeline
-- Automated FTP deployment with retry logic (up to 5 attempts with exponential backoff)
-- Implemented post-deployment validation for font files and HTML delivery integrity
-
-*5. Custom PostgreSQL Docker Images*
+*4. Custom PostgreSQL Docker Images*
 - Created and published PostgreSQL 17 Docker images with pg_uuidv7 extension to GitHub Container Registry
 - Designed secure variant with default superuser lockdown for production use
 - Configured automated weekly rebuilds via GitHub Actions with multi-tag strategy (latest, timestamp, commit SHA)
@@ -82,7 +77,7 @@ Full-stack software engineer with 4+ years of professional experience spanning b
 
 ---
 
-### Full-Stack Engineer
+### Systems Engineer
 **HP Inc. / vCosmos Project** (via SHL Technologies), Taipei, Taiwan
 *January 2022 – September 2023*
 
@@ -120,8 +115,7 @@ Full-stack software engineer with 4+ years of professional experience spanning b
 - Defined quality standards and review checklists
 
 *6. Scrum Practice*
-- Practiced 2-week sprint cycles with full Scrum ceremonies
-- Active contributor to Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives
+- Participated in 2-week sprint cycles (Sprint Planning, Daily Standups, Sprint Reviews, Retrospectives)
 
 **Skills Utilized**: Node.js, React.js, AWS (EC2, S3, Lambda), RabbitMQ, Azure DevOps, Docker, Git, Protocol Buffers, Microservices Architecture, Scrum/Agile
 
