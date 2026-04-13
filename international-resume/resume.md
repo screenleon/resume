@@ -87,5 +87,5 @@ Developed a health data web application for collecting, analyzing, and visualizi
 
 ### Languages
 - **Chinese (Traditional)**: Native
-- **English**: Professional Working Proficiency
-- **Japanese**: JLPT N2 (Feb 2025), JPT 695 (Dec 2024)
+- **English**: Conversational — daily communication and software development terminology
+- **Japanese**: Conversational — daily communication and software development terminology; JLPT N2 (Feb 2025), JPT 695 (Dec 2024)

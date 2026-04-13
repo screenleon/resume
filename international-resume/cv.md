@@ -177,8 +177,8 @@ Full-stack software engineer with 4+ years of professional experience spanning b
 | Language | Proficiency |
 |----------|-------------|
 | Chinese (Traditional) | Native |
-| English | Professional Working Proficiency |
-| Japanese | JLPT N2 (February 2025), JPT 695 (December 2024) |
+| English | Conversational — daily communication and software development terminology |
+| Japanese | Conversational — daily communication and software development terminology; JLPT N2 (February 2025), JPT 695 (December 2024) |
 
 ---
 
