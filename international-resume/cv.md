@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 ## Personal Information
-- **Full Name**: Li-En Chen (陳李恩)
+- **Full Name**: Li-En Chen (陳里恩)
 - **Date of Birth**: December 13, 1996
 - **Nationality**: Taiwanese
 - **Address**: 2-15-29 Kotobuki, Okegawa, Saitama 363-0016, Japan
